@@ -4,10 +4,9 @@
 </a>
 
 # Boilerplate code
+Je mag, als je wilt, deze code gebruiken als boilerplate / template voor de opdracht. 
 
-
-Deze code kan dienen als boilerplate / template voor het gezonde school project wat we tijdens deze les 
-willen gaan ontwikkelen.
+[boilerplate gebruiken](/assets/uitleg.md)
 
 ## Achtergrond
 De school is vandaag gestart met een nieuw initiatief om gezond eten te promoten. Studenten mogen bij 
